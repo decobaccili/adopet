@@ -2,8 +2,8 @@
 
 ## ![Logo of the project Adopet](logo.png)
 
-## Plantify Garden - Website
-* This is a simple Web Page based from a Figma Template.
+## Adopet - Website
+* This is a Web Page challenge proposed by Alura.
 
 ## Technology 
 
