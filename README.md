@@ -22,7 +22,7 @@ Here are the technologies used in this project.
 ## Links
 
   - Icons: https://remixicon.com/
-  - Deploy on Netlify: https://adopet.vercel.app/
+  - Deploy on Netlify: https://alura-adopet.vercel.app/
   - Repository: https://github.com/decobaccili/adopet
 
 ## Template
